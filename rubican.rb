@@ -14,4 +14,4 @@ def findtheNumber
   puts "tebrikler sayiyi buldunuz"
 end
 
-findtheNumber()
+findtheNumber
